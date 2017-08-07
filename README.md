@@ -33,12 +33,12 @@ Chapter 6 ---> https://github.com/ChesterChin92/CodePython/blob/master/Chapter%2
 Chapter 7 ---> https://github.com/ChesterChin92/CodePython/blob/master/Chapter%207.ipynb
 
 
-#### LEGENDARY QUESTIONS COLLECTION
+# LEGENDARY QUESTIONS COLLECTION
 
 ![Alt Text](https://68.media.tumblr.com/909741db3ec7f39a3bf72cf58e28a463/tumblr_oq8et9qmaf1rpduwho1_500.gif)
 
  -----------------------------------------------------------------------------------------------------------------------------------------
-| [CLICK HERE TO RECEIVE YOUR CHALLENGE](https://github.com/ChesterChin92/CodePython/blob/master/Legendary%20Question%20Collection.ipynb) |
+| [CLICK HERE TO VIEW YOUR CHALLENGE](https://github.com/ChesterChin92/CodePython/blob/master/Legendary%20Question%20Collection.ipynb) |
  ------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![Alt Text](https://media.giphy.com/media/awpqNsKuFtXI4/giphy.gif)
